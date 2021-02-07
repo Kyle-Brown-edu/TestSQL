@@ -8,7 +8,7 @@ public class JdbcMySQLVersion {
 
     public static void main(String[] args) throws SQLException {
 
-        // for further information look at: 
+        // for further information look at: https://www.codejava.net/java-se/jdbc/connect-to-mysql-database-via-jdbc
         // this .jar file that allows you to use the connector is included with 
         // this repo, you can just use that or go download it from the website
     
