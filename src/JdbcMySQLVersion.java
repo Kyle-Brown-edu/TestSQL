@@ -23,7 +23,7 @@ public class JdbcMySQLVersion {
         // call executeQuery(SQL_STATEMENT)
         String sql = "";
         String query = "SELECT VERSION()";
-       
+        String insert = "Insert Into";
         // I am using this one so I can see the two names in our users table. 
         sql = "select * from users";
 
